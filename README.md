@@ -4,7 +4,7 @@
 node sort.js
 ```
 
-Update the number in the main function to test different test cases.
+Update the input numbers in the main function to test different test cases.
 
 ## Sort Method
 
